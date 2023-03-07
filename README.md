@@ -1,4 +1,4 @@
 # Emmanuel-ds22.github.io
 
 ## Hi World its Emmanuel
-theme:minima
+remote_theme:minima
